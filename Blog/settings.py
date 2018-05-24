@@ -25,7 +25,7 @@ SECRET_KEY = '0hkc$*+pp35a3)qcs(&z@zc#-nd20mzmz=$28)-k-sok&*qr@%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['daisyye.pythonanywhere.com']
 
 
 # Application definition
